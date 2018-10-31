@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.4.1)
 
+project(libdashjbls_project)
+
 add_library( # Sets the name of the library.
         dashjbls
 
@@ -7,7 +9,7 @@ add_library( # Sets the name of the library.
         SHARED
 
         # Provides a relative path to your source file(s).
-        src/org_dash_bls_BlsJni.cpp
+        src/org_dash_bls_DashBlsJni.cpp
 )
 
 message(STATUS "CMAKE_SOURCE_DIR=${CMAKE_SOURCE_DIR}")
@@ -32,10 +34,3 @@ target_link_libraries( # Specifies the target library.
         # included in the NDK.
         ${CMAKE_SOURCE_DIR}/src/bls-signatures/build/libbls.a
 )
-					
-#project(libblsjni_project)
-#add_library(blsjni SHARED blsjni.cpp)
-#target_link_libraries(myapp ${CMAKE_SOURCE_DIR}/libbls.a)
-
-#install(TARGETS blsjni DESTINATION lib)
-#install(FILES blsjni.h DESTINATION include)

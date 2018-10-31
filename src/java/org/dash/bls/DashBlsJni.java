@@ -1,6 +1,4 @@
 package org.dash.bls;
-
-//https://www.baeldung.com/jni
  
 public class DashBlsJni {
  
@@ -9,17 +7,20 @@ public class DashBlsJni {
     }
      
     public static void main(String[] args) {
+        
+        int[] seed = new int[] {
+            0, 50, 6, 244, 24, 199, 1, 25, 52, 88, 192,
+            19, 18, 12, 89, 6, 220, 18, 102, 58, 209,
+            82, 12, 62, 89, 110, 182, 9, 44, 20, 254, 22};
+
         DashBlsJni blsJni = new DashBlsJni();
-        //String message = blsJni.sayHelloToMe("Dash", false);
-        //System.out.println("blsJni.sayHelloToMe(\"Dash\", false) = " + message);
-        //long result = blsJni.sumIntegers(2, 3);
-        //System.out.println("blsJni.sumIntegers(2, 3) = " + result);
-        blsJni.callBls();
+		blsJni.nativePublicKeyFingerprint();
+		
+        long fingerprint = blsJni.publicKeyFingerprint(seed);
+        System.out.println("Fingerprint (java):\t\t" + fingerprint);
     }
 
-    private native long sumIntegers(int first, int second);
-
-    private native String sayHelloToMe(String name, boolean isFemale);
-    
-    private native void callBls();
+    private native long publicKeyFingerprint(int[] seed);
+	
+    private native void nativePublicKeyFingerprint();
 }
