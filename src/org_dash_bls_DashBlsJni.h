@@ -20,8 +20,32 @@ JNIEXPORT jlong JNICALL Java_org_dash_bls_DashBlsJni_publicKeyFingerprint
  * Method:    nativePublicKeyFingerprint
  * Signature: ()V
  */
-JNIEXPORT void JNICALL Java_org_dash_bls_DashBlsJni_nativePublicKeyFingerprint
+JNIEXPORT void JNICALL Java_org_dash_bls_DashBlsJni_nativeSignMessage
   (JNIEnv *, jobject);
+
+/*
+ * Class:     org_dash_bls_DashBlsJni
+ * Method:    generatePrivateKey
+ * Signature: ([I)[B
+ */
+JNIEXPORT jbyteArray JNICALL Java_org_dash_bls_DashBlsJni_generatePrivateKey
+  (JNIEnv *, jobject, jintArray);
+
+/*
+ * Class:     org_dash_bls_DashBlsJni
+ * Method:    generatePublicKey
+ * Signature: ([B)[B
+ */
+JNIEXPORT jbyteArray JNICALL Java_org_dash_bls_DashBlsJni_generatePublicKey
+  (JNIEnv *, jobject, jbyteArray);
+
+/*
+ * Class:     org_dash_bls_DashBlsJni
+ * Method:    signMessage
+ * Signature: ([B[I)[B
+ */
+JNIEXPORT jbyteArray JNICALL Java_org_dash_bls_DashBlsJni_signMessage
+  (JNIEnv *, jobject, jbyteArray, jintArray);
 
 #ifdef __cplusplus
 }
