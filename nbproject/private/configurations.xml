@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name=".idea">
+      </df>
+      <df name="CMakeFiles">
+        <df name="3.5.1">
+          <df name="CompilerIdC">
+            <in>CMakeCCompilerId.c</in>
+          </df>
+          <df name="CompilerIdCXX">
+            <in>CMakeCXXCompilerId.cpp</in>
+          </df>
+        </df>
+        <df name="CMakeTmp">
+        </df>
+        <df name="dashjbls.dir">
+          <df name="src">
+          </df>
+        </df>
+        <in>feature_tests.c</in>
+        <in>feature_tests.cxx</in>
+      </df>
+      <df name="lib">
+      </df>
+      <df name="out">
+        <df name="production">
+          <df name="dashj-bls-signatures-jni">
+            <df name="org">
+              <df name="dash">
+                <df name="bls">
+                </df>
+              </df>
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="src">
+        <df name="bls-signatures">
+          <df name="build">
+            <df name="CMakeFiles">
+              <df name="3.5.1">
+                <df name="CompilerIdC">
+                  <in>CMakeCCompilerId.c</in>
+                </df>
+                <df name="CompilerIdCXX">
+                  <in>CMakeCXXCompilerId.cpp</in>
+                </df>
+              </df>
+              <df name="CMakeTmp">
+              </df>
+              <in>feature_tests.c</in>
+              <in>feature_tests.cxx</in>
+            </df>
+            <df name="contrib">
+              <df name="pybind11">
+                <df name="CMakeFiles">
+                </df>
+              </df>
+              <df name="relic">
+                <df name="CMakeFiles">
+                </df>
+                <df name="include">
+                  <in>relic_conf.h</in>
+                </df>
+                <df name="lib">
+                </df>
+                <df name="src">
+                  <df name="CMakeFiles">
+                    <df name="arith_objs.dir">
+                    </df>
+                    <df name="relic_s.dir">
+                      <df name="arch">
+                      </df>
+                      <df name="bc">
+                      </df>
+                      <df name="bn">
+                      </df>
+                      <df name="cp">
+                      </df>
+                      <df name="dv">
+                      </df>
+                      <df name="eb">
+                      </df>
+                      <df name="ed">
+                      </df>
+                      <df name="ep">
+                      </df>
+                      <df name="epx">
+                      </df>
+                      <df name="fb">
+                      </df>
+                      <df name="fbx">
+                      </df>
+                      <df name="fp">
+                      </df>
+                      <df name="fpx">
+                      </df>
+                      <df name="low">
+                        <df name="easy">
+                        </df>
+                      </df>
+                      <df name="md">
+                      </df>
+                      <df name="pc">
+                      </df>
+                      <df name="pp">
+                      </df>
+                      <df name="rand">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+            <df name="object_blstmp">
+            </df>
+            <df name="object_relic_s">
+            </df>
+            <df name="python-bindings">
+              <df name="CMakeFiles">
+                <df name="blspy.dir">
+                </df>
+              </df>
+            </df>
+            <df name="src">
+              <df name="CMakeFiles">
+                <df name="bls.dir">
+                </df>
+                <df name="blstmp.dir">
+                </df>
+                <df name="combined_custom.dir">
+                </df>
+                <df name="runbench.dir">
+                </df>
+                <df name="runtest.dir">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="cmake_modules">
+          </df>
+          <df name="CMakeFiles">
+            <df name="3.5.1">
+              <df name="CompilerIdC">
+                <in>CMakeCCompilerId.c</in>
+              </df>
+              <df name="CompilerIdCXX">
+                <in>CMakeCXXCompilerId.cpp</in>
+              </df>
+            </df>
+            <df name="CMakeTmp">
+            </df>
+            <in>feature_tests.c</in>
+            <in>feature_tests.cxx</in>
+          </df>
+          <df name="contrib">
+            <df name="catch">
+              <in>catch.hpp</in>
+            </df>
+            <df name="pybind11">
+              <df name="CMakeFiles">
+              </df>
+              <df name="docs">
+                <df name="_static">
+                </df>
+                <df name="advanced">
+                  <df name="cast">
+                  </df>
+                  <df name="pycpp">
+                  </df>
+                </df>
+              </df>
+              <df name="include">
+                <df name="pybind11">
+                  <df name="detail">
+                    <in>class.h</in>
+                    <in>common.h</in>
+                    <in>descr.h</in>
+                    <in>init.h</in>
+                    <in>internals.h</in>
+                    <in>typeid.h</in>
+                  </df>
+                  <in>attr.h</in>
+                  <in>buffer_info.h</in>
+                  <in>cast.h</in>
+                  <in>chrono.h</in>
+                  <in>common.h</in>
+                  <in>complex.h</in>
+                  <in>eigen.h</in>
+                  <in>embed.h</in>
+                  <in>eval.h</in>
+                  <in>functional.h</in>
+                  <in>iostream.h</in>
+                  <in>numpy.h</in>
+                  <in>operators.h</in>
+                  <in>options.h</in>
+                  <in>pybind11.h</in>
+                  <in>pytypes.h</in>
+                  <in>stl.h</in>
+                  <in>stl_bind.h</in>
+                </df>
+              </df>
+              <df name="pybind11">
+              </df>
+              <df name="tests">
+                <df name="test_cmake_build">
+                  <df name="installed_embed">
+                  </df>
+                  <df name="installed_function">
+                  </df>
+                  <df name="installed_target">
+                  </df>
+                  <df name="subdirectory_embed">
+                  </df>
+                  <df name="subdirectory_function">
+                  </df>
+                  <df name="subdirectory_target">
+                  </df>
+                  <in>embed.cpp</in>
+                  <in>main.cpp</in>
+                </df>
+                <df name="test_embed">
+                  <in>catch.cpp</in>
+                  <in>external_module.cpp</in>
+                  <in>test_interpreter.cpp</in>
+                </df>
+                <in>constructor_stats.h</in>
+                <in>local_bindings.h</in>
+                <in>object.h</in>
+                <in>pybind11_cross_module_tests.cpp</in>
+                <in>pybind11_tests.cpp</in>
+                <in>pybind11_tests.h</in>
+                <in>test_buffers.cpp</in>
+                <in>test_builtin_casters.cpp</in>
+                <in>test_call_policies.cpp</in>
+                <in>test_callbacks.cpp</in>
+                <in>test_chrono.cpp</in>
+                <in>test_class.cpp</in>
+                <in>test_constants_and_functions.cpp</in>
+                <in>test_copy_move.cpp</in>
+                <in>test_docstring_options.cpp</in>
+                <in>test_eigen.cpp</in>
+                <in>test_enum.cpp</in>
+                <in>test_eval.cpp</in>
+                <in>test_exceptions.cpp</in>
+                <in>test_factory_constructors.cpp</in>
+                <in>test_iostream.cpp</in>
+                <in>test_kwargs_and_defaults.cpp</in>
+                <in>test_local_bindings.cpp</in>
+                <in>test_methods_and_attributes.cpp</in>
+                <in>test_modules.cpp</in>
+                <in>test_multiple_inheritance.cpp</in>
+                <in>test_numpy_array.cpp</in>
+                <in>test_numpy_dtypes.cpp</in>
+                <in>test_numpy_vectorize.cpp</in>
+                <in>test_opaque_types.cpp</in>
+                <in>test_operator_overloading.cpp</in>
+                <in>test_pickling.cpp</in>
+                <in>test_pytypes.cpp</in>
+                <in>test_sequences_and_iterators.cpp</in>
+                <in>test_smart_ptr.cpp</in>
+                <in>test_stl.cpp</in>
+                <in>test_stl_binders.cpp</in>
+                <in>test_tagbased_polymorphic.cpp</in>
+                <in>test_virtual_functions.cpp</in>
+              </df>
+              <df name="tools">
+                <df name="clang">
+                </df>
+              </df>
+            </df>
+            <df name="relic">
+              <df name="art">
+              </df>
+              <df name="bench">
+                <in>bench_bn.c</in>
+                <in>bench_cp.c</in>
+                <in>bench_dv.c</in>
+                <in>bench_eb.c</in>
+                <in>bench_ec.c</in>
+                <in>bench_ed.c</in>
+                <in>bench_ep.c</in>
+                <in>bench_epx.c</in>
+                <in>bench_err.c</in>
+                <in>bench_fb.c</in>
+                <in>bench_fbx.c</in>
+                <in>bench_fp.c</in>
+                <in>bench_fpx.c</in>
+                <in>bench_pc.c</in>
+                <in>bench_pp.c</in>
+                <in>bench_rand.c</in>
+              </df>
+              <df name="cmake">
+              </df>
+              <df name="CMakeFiles">
+              </df>
+              <df name="doc">
+              </df>
+              <df name="include">
+                <df name="low">
+                  <in>relic_bn_low.h</in>
+                  <in>relic_dv_low.h</in>
+                  <in>relic_fb_low.h</in>
+                  <in>relic_fp_low.h</in>
+                  <in>relic_fpx_low.h</in>
+                </df>
+                <in>relic.h</in>
+                <in>relic_arch.h</in>
+                <in>relic_bc.h</in>
+                <in>relic_bench.h</in>
+                <in>relic_bn.h</in>
+                <in>relic_conf.h</in>
+                <in>relic_core.h</in>
+                <in>relic_cp.h</in>
+                <in>relic_dv.h</in>
+                <in>relic_eb.h</in>
+                <in>relic_ec.h</in>
+                <in>relic_ed.h</in>
+                <in>relic_ep.h</in>
+                <in>relic_epx.h</in>
+                <in>relic_err.h</in>
+                <in>relic_fb.h</in>
+                <in>relic_fbx.h</in>
+                <in>relic_fp.h</in>
+                <in>relic_fpx.h</in>
+                <in>relic_label.h</in>
+                <in>relic_md.h</in>
+                <in>relic_pc.h</in>
+                <in>relic_pool.h</in>
+                <in>relic_pp.h</in>
+                <in>relic_rand.h</in>
+                <in>relic_test.h</in>
+                <in>relic_trace.h</in>
+                <in>relic_types.h</in>
+                <in>relic_util.h</in>
+              </df>
+              <df name="lib">
+              </df>
+              <df name="preset">
+              </df>
+              <df name="src">
+                <df name="arch">
+                  <in>relic_arch_arm.c</in>
+                  <in>relic_arch_avr.c</in>
+                  <in>relic_arch_msp.c</in>
+                  <in>relic_arch_none.c</in>
+                  <in>relic_arch_x64.c</in>
+                  <in>relic_arch_x86.c</in>
+                </df>
+                <df name="bc">
+                  <in>relic_bc_aes.c</in>
+                  <in>rijndael-alg-fst.c</in>
+                  <in>rijndael-alg-fst.h</in>
+                  <in>rijndael-api-fst.c</in>
+                  <in>rijndael-api-fst.h</in>
+                </df>
+                <df name="bn">
+                  <in>relic_bn_add.c</in>
+                  <in>relic_bn_cmp.c</in>
+                  <in>relic_bn_div.c</in>
+                  <in>relic_bn_factor.c</in>
+                  <in>relic_bn_gcd.c</in>
+                  <in>relic_bn_lcm.c</in>
+                  <in>relic_bn_mem.c</in>
+                  <in>relic_bn_mod.c</in>
+                  <in>relic_bn_mul.c</in>
+                  <in>relic_bn_mxp.c</in>
+                  <in>relic_bn_prime.c</in>
+                  <in>relic_bn_rec.c</in>
+                  <in>relic_bn_shift.c</in>
+                  <in>relic_bn_smb.c</in>
+                  <in>relic_bn_sqr.c</in>
+                  <in>relic_bn_srt.c</in>
+                  <in>relic_bn_util.c</in>
+                </df>
+                <df name="CMakeFiles">
+                  <df name="arith_objs.dir">
+                  </df>
+                  <df name="relic_s.dir">
+                    <df name="arch">
+                    </df>
+                    <df name="bc">
+                    </df>
+                    <df name="bn">
+                    </df>
+                    <df name="cp">
+                    </df>
+                    <df name="dv">
+                    </df>
+                    <df name="eb">
+                    </df>
+                    <df name="ed">
+                    </df>
+                    <df name="ep">
+                    </df>
+                    <df name="epx">
+                    </df>
+                    <df name="fb">
+                    </df>
+                    <df name="fbx">
+                    </df>
+                    <df name="fp">
+                    </df>
+                    <df name="fpx">
+                    </df>
+                    <df name="low">
+                      <df name="easy">
+                      </df>
+                    </df>
+                    <df name="md">
+                    </df>
+                    <df name="pc">
+                    </df>
+                    <df name="pp">
+                    </df>
+                    <df name="rand">
+                    </df>
+                  </df>
+                </df>
+                <df name="cp">
+                  <in>relic_cp_bbs.c</in>
+                  <in>relic_cp_bdpe.c</in>
+                  <in>relic_cp_bgn.c</in>
+                  <in>relic_cp_bls.c</in>
+                  <in>relic_cp_ecdh.c</in>
+                  <in>relic_cp_ecdsa.c</in>
+                  <in>relic_cp_ecies.c</in>
+                  <in>relic_cp_ecmqv.c</in>
+                  <in>relic_cp_ecss.c</in>
+                  <in>relic_cp_ibe.c</in>
+                  <in>relic_cp_phpe.c</in>
+                  <in>relic_cp_rabin.c</in>
+                  <in>relic_cp_rsa.c</in>
+                  <in>relic_cp_sokaka.c</in>
+                  <in>relic_cp_vbnn_ibs.c</in>
+                  <in>relic_cp_zss.c</in>
+                </df>
+                <df name="dv">
+                  <in>relic_dv_mem.c</in>
+                  <in>relic_dv_util.c</in>
+                </df>
+                <df name="eb">
+                  <in>relic_eb_add.c</in>
+                  <in>relic_eb_curve.c</in>
+                  <in>relic_eb_dbl.c</in>
+                  <in>relic_eb_frb.c</in>
+                  <in>relic_eb_hlv.c</in>
+                  <in>relic_eb_map.c</in>
+                  <in>relic_eb_mul.c</in>
+                  <in>relic_eb_mul_fix.c</in>
+                  <in>relic_eb_mul_sim.c</in>
+                  <in>relic_eb_neg.c</in>
+                  <in>relic_eb_norm.c</in>
+                  <in>relic_eb_param.c</in>
+                  <in>relic_eb_pck.c</in>
+                  <in>relic_eb_util.c</in>
+                </df>
+                <df name="ed">
+                  <in>relic_ed_add.c</in>
+                  <in>relic_ed_curve.c</in>
+                  <in>relic_ed_dbl.c</in>
+                  <in>relic_ed_map.c</in>
+                  <in>relic_ed_mul.c</in>
+                  <in>relic_ed_mul_fix.c</in>
+                  <in>relic_ed_mul_sim.c</in>
+                  <in>relic_ed_param.c</in>
+                  <in>relic_ed_pck.c</in>
+                  <in>relic_ed_util.c</in>
+                </df>
+                <df name="ep">
+                  <in>relic_ep_add.c</in>
+                  <in>relic_ep_curve.c</in>
+                  <in>relic_ep_dbl.c</in>
+                  <in>relic_ep_map.c</in>
+                  <in>relic_ep_mul.c</in>
+                  <in>relic_ep_mul_fix.c</in>
+                  <in>relic_ep_mul_sim.c</in>
+                  <in>relic_ep_neg.c</in>
+                  <in>relic_ep_norm.c</in>
+                  <in>relic_ep_param.c</in>
+                  <in>relic_ep_pck.c</in>
+                  <in>relic_ep_util.c</in>
+                </df>
+                <df name="epx">
+                  <in>relic_ep2_add.c</in>
+                  <in>relic_ep2_curve.c</in>
+                  <in>relic_ep2_dbl.c</in>
+                  <in>relic_ep2_frb.c</in>
+                  <in>relic_ep2_map.c</in>
+                  <in>relic_ep2_mul.c</in>
+                  <in>relic_ep2_mul_fix.c</in>
+                  <in>relic_ep2_mul_sim.c</in>
+                  <in>relic_ep2_neg.c</in>
+                  <in>relic_ep2_norm.c</in>
+                  <in>relic_ep2_pck.c</in>
+                  <in>relic_ep2_util.c</in>
+                </df>
+                <df name="fb">
+                  <in>relic_fb_add.c</in>
+                  <in>relic_fb_cmp.c</in>
+                  <in>relic_fb_exp.c</in>
+                  <in>relic_fb_inv.c</in>
+                  <in>relic_fb_itr.c</in>
+                  <in>relic_fb_mul.c</in>
+                  <in>relic_fb_param.c</in>
+                  <in>relic_fb_poly.c</in>
+                  <in>relic_fb_rdc.c</in>
+                  <in>relic_fb_shift.c</in>
+                  <in>relic_fb_slv.c</in>
+                  <in>relic_fb_sqr.c</in>
+                  <in>relic_fb_srt.c</in>
+                  <in>relic_fb_trc.c</in>
+                  <in>relic_fb_util.c</in>
+                </df>
+                <df name="fbx">
+                  <in>relic_fb2_inv.c</in>
+                  <in>relic_fb2_mul.c</in>
+                  <in>relic_fb2_slv.c</in>
+                  <in>relic_fb2_sqr.c</in>
+                </df>
+                <df name="fp">
+                  <in>relic_fp_add.c</in>
+                  <in>relic_fp_cmp.c</in>
+                  <in>relic_fp_exp.c</in>
+                  <in>relic_fp_inv.c</in>
+                  <in>relic_fp_mul.c</in>
+                  <in>relic_fp_param.c</in>
+                  <in>relic_fp_prime.c</in>
+                  <in>relic_fp_rdc.c</in>
+                  <in>relic_fp_shift.c</in>
+                  <in>relic_fp_sqr.c</in>
+                  <in>relic_fp_srt.c</in>
+                  <in>relic_fp_util.c</in>
+                </df>
+                <df name="fpx">
+                  <in>relic_fp12_mul.c</in>
+                  <in>relic_fp12_sqr.c</in>
+                  <in>relic_fp18_mul.c</in>
+                  <in>relic_fp18_sqr.c</in>
+                  <in>relic_fp2_mul.c</in>
+                  <in>relic_fp2_sqr.c</in>
+                  <in>relic_fp3_mul.c</in>
+                  <in>relic_fp3_sqr.c</in>
+                  <in>relic_fp6_mul.c</in>
+                  <in>relic_fp6_sqr.c</in>
+                  <in>relic_fpx_add.c</in>
+                  <in>relic_fpx_cmp.c</in>
+                  <in>relic_fpx_exp.c</in>
+                  <in>relic_fpx_frb.c</in>
+                  <in>relic_fpx_inv.c</in>
+                  <in>relic_fpx_pck.c</in>
+                  <in>relic_fpx_rdc.c</in>
+                  <in>relic_fpx_srt.c</in>
+                  <in>relic_fpx_util.c</in>
+                </df>
+                <df name="low">
+                  <df name="arm-asm-254">
+                    <in>relic_fp_add_low.c</in>
+                    <in>relic_fp_add_low.s</in>
+                    <in>relic_fp_cmp_low.c</in>
+                    <in>relic_fp_cmp_low.s</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_mul_low.s</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_rdc_low.s</in>
+                  </df>
+                  <df name="avr-asm-158">
+                    <in>relic_bn_add_low.s</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_shift_low.s</in>
+                    <in>relic_fp_add_low.c</in>
+                    <in>relic_fp_add_low.s</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_mul_low.s</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_rdc_low.s</in>
+                    <in>relic_fp_shift_low.c</in>
+                    <in>relic_fp_shift_low.s</in>
+                    <in>relic_fp_sqr_low.c</in>
+                    <in>relic_fp_sqr_low.s</in>
+                  </df>
+                  <df name="avr-asm-163">
+                    <in>relic_bn_add_low.s</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_shift_low.s</in>
+                    <in>relic_fb_add_low.c</in>
+                    <in>relic_fb_add_low.s</in>
+                    <in>relic_fb_mul_low.c</in>
+                    <in>relic_fb_mul_low.s</in>
+                    <in>relic_fb_shift_low.c</in>
+                    <in>relic_fb_shift_low.s</in>
+                    <in>relic_fb_sqr_low.c</in>
+                    <in>relic_fb_sqr_low.s</in>
+                  </df>
+                  <df name="curve2251-sse">
+                    <in>macros.h</in>
+                    <in>relic_bn_div_low.c</in>
+                    <in>relic_bn_mod_low.c</in>
+                    <in>relic_bn_mul_low.c</in>
+                    <in>relic_bn_sqr_low.c</in>
+                    <in>relic_fb_add_low.c</in>
+                    <in>relic_fb_inv_low.c</in>
+                    <in>relic_fb_itr_low.c</in>
+                    <in>relic_fb_mul_low.c</in>
+                    <in>relic_fb_mul_low_cl.c</in>
+                    <in>relic_fb_mul_low_ld.c</in>
+                    <in>relic_fb_mul_low_sf.c</in>
+                    <in>relic_fb_rdc_low.c</in>
+                    <in>relic_fb_slv_low.c</in>
+                    <in>relic_fb_sqr_low.c</in>
+                    <in>relic_fb_srt_low.c</in>
+                    <in>relic_fb_trc_low.c</in>
+                  </df>
+                  <df name="easy">
+                    <in>relic_bn_add_low.c</in>
+                    <in>relic_bn_cmp_low.c</in>
+                    <in>relic_bn_div_low.c</in>
+                    <in>relic_bn_mod_low.c</in>
+                    <in>relic_bn_mul_low.c</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_sqr_low.c</in>
+                    <in>relic_fb_add_low.c</in>
+                    <in>relic_fb_cmp_low.c</in>
+                    <in>relic_fb_inv_low.c</in>
+                    <in>relic_fb_itr_low.c</in>
+                    <in>relic_fb_mul_low.c</in>
+                    <in>relic_fb_rdc_low.c</in>
+                    <in>relic_fb_shift_low.c</in>
+                    <in>relic_fb_slv_low.c</in>
+                    <in>relic_fb_sqr_low.c</in>
+                    <in>relic_fb_srt_low.c</in>
+                    <in>relic_fb_trc_low.c</in>
+                    <in>relic_fp_add_low.c</in>
+                    <in>relic_fp_cmp_low.c</in>
+                    <in>relic_fp_inv_low.c</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_shift_low.c</in>
+                    <in>relic_fp_sqr_low.c</in>
+                    <in>relic_fpx_add_low.c</in>
+                    <in>relic_fpx_mul_low.c</in>
+                    <in>relic_fpx_rdc_low.c</in>
+                    <in>relic_fpx_sqr_low.c</in>
+                  </df>
+                  <df name="gmp">
+                    <in>relic_bn_add_low.c</in>
+                    <in>relic_bn_cmp_low.c</in>
+                    <in>relic_bn_div_low.c</in>
+                    <in>relic_bn_mod_low.c</in>
+                    <in>relic_bn_mul_low.c</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_sqr_low.c</in>
+                    <in>relic_fb_add_low.c</in>
+                    <in>relic_fb_cmp_low.c</in>
+                    <in>relic_fb_shift_low.c</in>
+                    <in>relic_fp_add_low.c</in>
+                    <in>relic_fp_cmp_low.c</in>
+                    <in>relic_fp_inv_low.c</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_shift_low.c</in>
+                    <in>relic_fp_sqr_low.c</in>
+                  </df>
+                  <df name="gmp-sec">
+                    <in>relic_bn_add_low.c</in>
+                    <in>relic_bn_cmp_low.c</in>
+                    <in>relic_bn_div_low.c</in>
+                    <in>relic_bn_mod_low.c</in>
+                    <in>relic_bn_mul_low.c</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_sqr_low.c</in>
+                  </df>
+                  <df name="msp-asm">
+                    <in>relic_bn_add_low.c</in>
+                    <in>relic_bn_add_low.s</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_shift_low.s</in>
+                    <in>relic_fb_add_low.c</in>
+                    <in>relic_fb_add_low.s</in>
+                    <in>relic_fb_mul_low.c</in>
+                    <in>relic_fb_mul_low.s</in>
+                    <in>relic_fb_mul_low_163.s</in>
+                    <in>relic_fb_mul_low_271.s</in>
+                    <in>relic_fb_mul_low_283.s</in>
+                    <in>relic_fb_mul_low_353.s</in>
+                    <in>relic_fb_mul_low_353_k3.s</in>
+                    <in>relic_fb_rdc_low.c</in>
+                    <in>relic_fb_rdc_low.s</in>
+                    <in>relic_fb_rdc_low_163.s</in>
+                    <in>relic_fb_rdc_low_271.s</in>
+                    <in>relic_fb_rdc_low_283.s</in>
+                    <in>relic_fb_rdc_low_353.s</in>
+                    <in>relic_fb_shift_low.c</in>
+                    <in>relic_fb_shift_low.s</in>
+                    <in>relic_fb_sqr_low.c</in>
+                    <in>relic_fb_sqr_low.s</in>
+                    <in>relic_fb_srt_low.c</in>
+                    <in>relic_fb_srt_low.s</in>
+                    <in>relic_fp_add_low.c</in>
+                    <in>relic_fp_add_low.s</in>
+                    <in>relic_fp_cmp_low.c</in>
+                    <in>relic_fp_inv_low.c</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_mul_low.s</in>
+                    <in>relic_fp_mul_low_160.s</in>
+                    <in>relic_fp_mul_low_256.s</in>
+                    <in>relic_fp_rdc_low.s</in>
+                    <in>relic_fp_rdc_low_160k1.s</in>
+                    <in>relic_fp_rdc_low_160p1.s</in>
+                    <in>relic_fp_rdc_low_256k1.s</in>
+                    <in>relic_fp_rdc_low_256p1.s</in>
+                    <in>relic_fp_sqr_low.s</in>
+                    <in>relic_fp_sqr_low_160.s</in>
+                    <in>relic_fp_sqr_low_256.s</in>
+                    <in>relic_fpx_add_low.c</in>
+                  </df>
+                  <df name="x64-asm-254">
+                    <in>macro.s</in>
+                    <in>relic_fp_add_low.s</in>
+                    <in>relic_fp_inv_low.c</in>
+                    <in>relic_fp_inv_low.s</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_mul_low.s</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_rdc_low.s</in>
+                    <in>relic_fp_shift_low.c</in>
+                    <in>relic_fp_shift_low.s</in>
+                    <in>relic_fp_sqr_low.c</in>
+                    <in>relic_fp_sqr_low.s</in>
+                    <in>relic_fpx_add_low.c</in>
+                    <in>relic_fpx_add_low.s</in>
+                    <in>relic_fpx_mul_low.c</in>
+                    <in>relic_fpx_mul_low.s</in>
+                    <in>relic_fpx_rdc_low.c</in>
+                    <in>relic_fpx_rdc_low.s</in>
+                    <in>relic_fpx_sqr_low.c</in>
+                    <in>relic_fpx_sqr_low.s</in>
+                  </df>
+                  <df name="x64-asm-382">
+                    <in>macro.s</in>
+                    <in>relic_bn_add_low.c</in>
+                    <in>relic_bn_cmp_low.c</in>
+                    <in>relic_bn_div_low.c</in>
+                    <in>relic_bn_mod_low.c</in>
+                    <in>relic_bn_mul_low.c</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_sqr_low.c</in>
+                    <in>relic_fp_add_low.s</in>
+                    <in>relic_fp_cmp_low.c</in>
+                    <in>relic_fp_inv_low.c</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_mul_low.s</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_rdc_low.s</in>
+                    <in>relic_fp_shift_low.c</in>
+                    <in>relic_fp_shift_low.s</in>
+                    <in>relic_fp_sqr_low.c</in>
+                  </df>
+                  <df name="x64-asm-455">
+                    <in>macro.s</in>
+                    <in>relic_bn_add_low.c</in>
+                    <in>relic_bn_cmp_low.c</in>
+                    <in>relic_bn_div_low.c</in>
+                    <in>relic_bn_mod_low.c</in>
+                    <in>relic_bn_mul_low.c</in>
+                    <in>relic_bn_shift_low.c</in>
+                    <in>relic_bn_sqr_low.c</in>
+                    <in>relic_fp_add_low.s</in>
+                    <in>relic_fp_cmp_low.c</in>
+                    <in>relic_fp_inv_low.c</in>
+                    <in>relic_fp_inv_low.s</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_mul_low.s</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_rdc_low.s</in>
+                    <in>relic_fp_shift_low.c</in>
+                    <in>relic_fp_shift_low.s</in>
+                    <in>relic_fp_sqr_low.c</in>
+                  </df>
+                  <df name="x64-asm-638">
+                    <in>macro.s</in>
+                    <in>relic_fp_add_low.s</in>
+                    <in>relic_fp_cmp_low.c</in>
+                    <in>relic_fp_mul_low.c</in>
+                    <in>relic_fp_mul_low.s</in>
+                    <in>relic_fp_rdc_low.c</in>
+                    <in>relic_fp_rdc_low.s</in>
+                    <in>relic_fp_shift_low.c</in>
+                    <in>relic_fp_sqr_low.c</in>
+                    <in>relic_fpx_rdc_low.c</in>
+                    <in>relic_fpx_rdc_low.s</in>
+                  </df>
+                </df>
+                <df name="md">
+                  <in>blake2-impl.h</in>
+                  <in>blake2.h</in>
+                  <in>blake2s-ref.c</in>
+                  <in>relic_md_blake2s.c</in>
+                  <in>relic_md_hmac.c</in>
+                  <in>relic_md_kdf.c</in>
+                  <in>relic_md_mgf.c</in>
+                  <in>relic_md_sha1.c</in>
+                  <in>relic_md_sha224.c</in>
+                  <in>relic_md_sha256.c</in>
+                  <in>relic_md_sha384.c</in>
+                  <in>relic_md_sha512.c</in>
+                  <in>sha.h</in>
+                  <in>sha1.c</in>
+                  <in>sha224-256.c</in>
+                  <in>sha384-512.c</in>
+                </df>
+                <df name="pc">
+                  <in>relic_pc_util.c</in>
+                </df>
+                <df name="pp">
+                  <in>relic_pp_add.c</in>
+                  <in>relic_pp_dbl.c</in>
+                  <in>relic_pp_exp.c</in>
+                  <in>relic_pp_map.c</in>
+                  <in>relic_pp_norm.c</in>
+                </df>
+                <df name="rand">
+                  <in>relic_rand_call.c</in>
+                  <in>relic_rand_core.c</in>
+                  <in>relic_rand_fips.c</in>
+                  <in>relic_rand_hash.c</in>
+                  <in>relic_rand_rdrnd.c</in>
+                  <in>relic_rand_udev.c</in>
+                </df>
+                <in>relic_bench.c</in>
+                <in>relic_conf.c</in>
+                <in>relic_core.c</in>
+                <in>relic_err.c</in>
+                <in>relic_pool.c</in>
+                <in>relic_test.c</in>
+                <in>relic_trace.c</in>
+                <in>relic_util.c</in>
+              </df>
+              <df name="test">
+                <in>test_bn.c</in>
+                <in>test_core.c</in>
+                <in>test_cp.c</in>
+                <in>test_dv.c</in>
+                <in>test_eb.c</in>
+                <in>test_ec.c</in>
+                <in>test_ed.c</in>
+                <in>test_ep.c</in>
+                <in>test_epx.c</in>
+                <in>test_err.c</in>
+                <in>test_fb.c</in>
+                <in>test_fbx.c</in>
+                <in>test_fp.c</in>
+                <in>test_fpx.c</in>
+                <in>test_md.c</in>
+                <in>test_pc.c</in>
+                <in>test_pp.c</in>
+                <in>test_rand.c</in>
+              </df>
+              <df name="tools">
+              </df>
+            </df>
+          </df>
+          <df name="object_blstmp">
+          </df>
+          <df name="object_relic_s">
+          </df>
+          <df name="python-bindings">
+            <df name="CMakeFiles">
+              <df name="blspy.dir">
+              </df>
+            </df>
+            <in>pythonbindings.cpp</in>
+          </df>
+          <df name="python-impl">
+          </df>
+          <df name="src">
+            <df name="CMakeFiles">
+              <df name="bls.dir">
+              </df>
+              <df name="blstmp.dir">
+              </df>
+              <df name="combined_custom.dir">
+              </df>
+              <df name="runbench.dir">
+              </df>
+              <df name="runtest.dir">
+              </df>
+            </df>
+            <in>aggregationinfo.cpp</in>
+            <in>aggregationinfo.hpp</in>
+            <in>bls.cpp</in>
+            <in>bls.hpp</in>
+            <in>chaincode.cpp</in>
+            <in>chaincode.hpp</in>
+            <in>extendedprivatekey.cpp</in>
+            <in>extendedprivatekey.hpp</in>
+            <in>extendedpublickey.cpp</in>
+            <in>extendedpublickey.hpp</in>
+            <in>privatekey.cpp</in>
+            <in>privatekey.hpp</in>
+            <in>publickey.cpp</in>
+            <in>publickey.hpp</in>
+            <in>signature.cpp</in>
+            <in>signature.hpp</in>
+            <in>test-bench.cpp</in>
+            <in>test-utils.hpp</in>
+            <in>test.cpp</in>
+            <in>util.hpp</in>
+          </df>
+        </df>
+        <df name="java">
+          <df name="org">
+            <df name="dash">
+              <df name="bls">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>org_dash_bls_DashBlsJni.cpp</in>
+        <in>org_dash_bls_DashBlsJni.h</in>
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>

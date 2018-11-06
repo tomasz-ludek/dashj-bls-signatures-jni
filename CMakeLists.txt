@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.4.1)
+set(CMAKE_CXX_STANDARD 11)
 
-project(libdashjbls_project)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+set(LIBRARY_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/lib)
 
 add_library( # Sets the name of the library.
         dashjbls

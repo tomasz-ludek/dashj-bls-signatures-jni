@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/bls-signatures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/bls-signatures/contrib/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/bls-signatures/contrib/pybind11/tools/clang" vcs="Git" />
+  </component>
+</project>

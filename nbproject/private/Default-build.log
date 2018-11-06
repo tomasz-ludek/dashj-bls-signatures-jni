@@ -1,0 +1,4 @@
+Scanning dependencies of target dashjbls
+[ 50%] Building CXX object CMakeFiles/dashjbls.dir/src/org_dash_bls_DashBlsJni.cpp.o
+[100%] Linking CXX shared library lib/libdashjbls.so
+[100%] Built target dashjbls

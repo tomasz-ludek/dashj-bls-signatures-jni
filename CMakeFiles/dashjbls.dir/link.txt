@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC -g3 -gdwarf-2  -shared -Wl,-soname,libdashjbls.so -o lib/libdashjbls.so CMakeFiles/dashjbls.dir/src/org_dash_bls_DashBlsJni.cpp.o src/bls-signatures/build/libbls.a 
